@@ -3,7 +3,8 @@ https://www.loom.com/share/c337e2fee7a846d7a2e0f705b46b85de
 
 
 [README_ServiceNow.md](https://github.com/user-attachments/files/30327314/README_ServiceNow.md)
-[Uplo# ServiceNow Help Desk Lab
+
+
 
 Hands-on ITSM lab: a free ServiceNow Personal Developer Instance (PDI) used to run the full ticket lifecycle end to end — reporting and resolving an incident, building a self-service catalog request, routing a change through manager approval, and building reports on the results. Written and tested against a real 2026-era PDI on the **Next Experience UI**, with click-paths corrected wherever the original instructions didn't match what actually appears on screen.
 
